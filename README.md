@@ -1,8 +1,8 @@
 # 💫 About Me:
+Hi, I'm a distributed system enthusiast and love coding in Golang.<br>
+
 Currently woking on development of asynchronous asset optimization pipeline. 
 It's a distributed system that deals with very high concurrent throughput. It makes the webpage load faster on client devices as a result a better end-user experience.
-
-<br>I'm a distributed system enthusiast and love coding in Golang.
 
 
 ## 🌐 Socials:
